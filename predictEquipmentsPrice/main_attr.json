@@ -1,0 +1,50 @@
+[
+        {"attr": "伤害", "min": 12, "max": 18, "level": 60},
+        {"attr": "伤害", "min": 16, "max": 24, "level": 80},
+        {"attr": "伤害", "min": 20, "max": 30, "level": 100},
+        {"attr": "伤害", "min": 24, "max": 36, "level": 120},
+        {"attr": "伤害", "min": 28, "max": 42, "level": 140},
+        {"attr": "伤害", "min": 32, "max": 48, "level": 160},
+
+        {"attr": "封印命中", "min": 12, "max": 18, "level": 60},
+        {"attr": "封印命中", "min": 16, "max": 24, "level": 80},
+        {"attr": "封印命中", "min": 20, "max": 30, "level": 100},
+        {"attr": "封印命中", "min": 24, "max": 36, "level": 120},
+        {"attr": "封印命中", "min": 28, "max": 42, "level": 140},
+        {"attr": "封印命中", "min": 32, "max": 48, "level": 160},
+
+        {"attr": "抗封", "min": 12, "max": 18, "level": 60},
+        {"attr": "抗封", "min": 16, "max": 24, "level": 80},
+        {"attr": "抗封", "min": 20, "max": 30, "level": 100},
+        {"attr": "抗封", "min": 24, "max": 36, "level": 120},
+        {"attr": "抗封", "min": 28, "max": 42, "level": 140},
+        {"attr": "抗封", "min": 32, "max": 48, "level": 160},
+
+        {"attr": "法伤", "min": 12, "max": 18, "level": 60},
+        {"attr": "法伤", "min": 16, "max": 24, "level": 80},
+        {"attr": "法伤", "min": 20, "max": 30, "level": 100},
+        {"attr": "法伤", "min": 24, "max": 36, "level": 120},
+        {"attr": "法伤", "min": 28, "max": 42, "level": 140},
+        {"attr": "法伤", "min": 32, "max": 48, "level": 160},
+
+        {"attr": "法防", "min": 12, "max": 18, "level": 60},
+        {"attr": "法防", "min": 16, "max": 24, "level": 80},
+        {"attr": "法防", "min": 20, "max": 30, "level": 100},
+        {"attr": "法防", "min": 24, "max": 36, "level": 120},
+        {"attr": "法防", "min": 28, "max": 42, "level": 140},
+        {"attr": "法防", "min": 32, "max": 48, "level": 160},
+
+        {"attr": "防御", "min": 12, "max": 18, "level": 60},
+        {"attr": "防御", "min": 16, "max": 24, "level": 80},
+        {"attr": "防御", "min": 20, "max": 30, "level": 100},
+        {"attr": "防御", "min": 24, "max": 36, "level": 120},
+        {"attr": "防御", "min": 28, "max": 42, "level": 140},
+        {"attr": "防御", "min": 32, "max": 48, "level": 160},
+
+        {"attr": "速度", "min": 12, "max": 18, "level": 60},
+        {"attr": "速度", "min": 14, "max": 21, "level": 80},
+        {"attr": "速度", "min": 16, "max": 24, "level": 100},
+        {"attr": "速度", "min": 18, "max": 27, "level": 120},
+        {"attr": "速度", "min": 20, "max": 30, "level": 140},
+        {"attr": "速度", "min": 22, "max": 33, "level": 160}
+    ]
